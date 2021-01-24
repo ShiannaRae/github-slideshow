@@ -2,5 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+>Don't worry be happy.
+>- Bob Marley
 Use the left arrow to go back!
